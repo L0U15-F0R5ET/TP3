@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84cc4aaf-45b9-4031-9810-3e249dc9e11b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TP3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="84cc4aaf-45b9-4031-9810-3e249dc9e11b" name="Changes" comment="TP3 debut" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +25,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/forgetl"
   }
 }]]></component>
   <component name="RunManager">
@@ -76,6 +69,27 @@
       <option name="presentableId" value="Default" />
       <updated>1759427574163</updated>
     </task>
+    <task id="LOCAL-00001" summary="TP3 debut">
+      <option name="closed" value="true" />
+      <created>1759431224177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759431224177</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TP3 debut">
+      <option name="closed" value="true" />
+      <created>1759431255736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759431255736</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP3 debut" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP3 debut" />
   </component>
 </project>
